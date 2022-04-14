@@ -1,0 +1,34 @@
+body::before {
+  display: block;
+  content: '';
+  height: 60px;
+}
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+
+.item1 {
+  width: 90%;
+  height: 230px;
+}
+
+#heading2 {
+  padding-bottom: 30px;
+}
+
+.logo {
+  width: 100px;
+  height: 50px;
+}
+
+.space {
+  padding: 10px;
+}
+
+.item2 {
+  width: 90%;
+  height: 400px;
+}
